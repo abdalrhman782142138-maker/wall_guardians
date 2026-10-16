@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
-        android:label="wall_guardians"
+        android:label="حرّاس الجدار"
         android:icon="@drawable/ic_launcher"
         android:theme="@style/NormalTheme">
         <activity
